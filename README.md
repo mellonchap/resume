@@ -38,3 +38,5 @@
 |<span style = "color :red">GIT</span>|A+|
 
 ![git hub page](capture.PNG)
+
+<img src = capture.PNG width =100 height = 100>
