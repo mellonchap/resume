@@ -19,4 +19,4 @@
 + 깃허브에 이력서 만들기
 
 추천 사이트  
-www.hallym.ac.kr
+[한림대학교](www.hallym.ac.kr)
